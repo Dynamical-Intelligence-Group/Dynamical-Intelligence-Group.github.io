@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint out on grid cell computation - <a href="https://arxiv.org/abs/2511.08292">Distance by de-correlation: Computing distance with heterogeneous grid cells</a>. A great collaboration with Priti and Akshunna!
+New preprint out on grid cell computation: <a href="https://arxiv.org/abs/2511.08292">Distance by de-correlation: Computing distance with heterogeneous grid cells</a>. A great collaboration with Priti Dasbehera and Akshunna S. Dogra!
