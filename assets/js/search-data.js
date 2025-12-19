@@ -30,20 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "nav-submenus",
-          title: "submenus",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/_pages/dropdown.html";
-          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-new-preprint-out-on-grid-cell-computation-distance-by-de-correlation-computing-distance-with-heterogeneous-grid-cells-a-great-collaboration-with-priti-and-akshunna",
-          title: 'New preprint out on grid cell computation - Distance by de-correlation: Computing distance...',
+            },},{id: "news-new-preprint-out-on-grid-cell-computation-distance-by-de-correlation-computing-distance-with-heterogeneous-grid-cells-a-great-collaboration-with-priti-dasbehera-and-akshunna-s-dogra",
+          title: 'New preprint out on grid cell computation: Distance by de-correlation: Computing distance with...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
