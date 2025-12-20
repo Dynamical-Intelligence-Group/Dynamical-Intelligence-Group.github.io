@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Members of DIG
+description: DIG members
 nav: true
 nav_order: 7
 
@@ -14,7 +14,7 @@ profiles:
     content: about_will_redman.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Will Redman</p>
+      <p>Will Redman (PI)</p>
     
   - align: left
     image: prof_pic.jpg
