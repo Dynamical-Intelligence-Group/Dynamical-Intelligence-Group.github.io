@@ -1,11 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: learning of dynamics
+description: how can artificial and biological neural networks learn the dynamics of non-autonomous systems? 
+img: assets/img/koopman_learning_with_episodic_memory.png
 importance: 2
-category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -16,9 +14,9 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    title: learning of dynamics
+    description: how can artificial and biological neural networks learn the dynamics of non-autonomous systems? 
+    img: /assets/img/koopman_learning_with_episodic_memory.png
     ---
 
 <div class="row">
