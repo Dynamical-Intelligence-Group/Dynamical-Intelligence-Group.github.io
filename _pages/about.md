@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Johns Hopkins University
+subtitle: Research Group @ Johns Hopkins University Electrical and Computer Engineering Department
 
 profile:
   align: right
