@@ -1,10 +1,9 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: dynamics of learning
+description: how does learning dynamically shape artificial and biological neural networks?
+img: assets/img/hippocampus.jpg
 importance: 1
-category: work
 related_publications: true
 ---
 
@@ -16,8 +15,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: dynamics of learning
+    description: 
     img: /assets/img/12.jpg
     ---
 

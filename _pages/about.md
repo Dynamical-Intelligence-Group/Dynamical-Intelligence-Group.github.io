@@ -19,4 +19,4 @@ announcements:
 
 ---
 
-DIG is an interdisciplinary group of researchers and students who are interested in understanding the dynamics of learning and the learning of dynamics. We work in the intersection of dynamical systems and control theory, machine learning, and neuroscience. 
+DIG is an interdisciplinary group of researchers and students who are interested in understanding the dynamics of learning and the learning of dynamics in artificial and biological systems. We work in the intersection of dynamical systems and control theory, machine learning, and neuroscience. 
