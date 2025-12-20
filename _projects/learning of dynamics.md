@@ -7,70 +7,13 @@ importance: 2
 related_publications: true
 ---
 
-Real-world, non-autonomous dynamical systems are hard to predict. This is a central challenge for artificial and biological neural networks. Despite the underlying non-autonomy, the presence of structure in latent factors can lead to the ***recurrence*** of dynamical regimes. A major goal of DIG's research is understanding how artificial and biological intelligence can learn to identify such repeated dynamics and leverage such knowledge to make better informed predictions and action plans.
+Real-world, non-autonomous dynamical systems are hard to predict. This is a central challenge for artificial and biological neural networks. Despite the underlying non-autonomy, the presence of structure in latent factors can lead to the ***recurrence*** of dynamical regimes. A major research goal of DIG is understanding how artificial and biological intelligence can learn to identify such repeated dynamics and leverage such knowledge to make better informed predictions and action plans.
 
-    ---
-    layout: page
-    title: learning of dynamics
-    description: how can artificial and biological neural networks learn the dynamics of non-autonomous systems? 
-    img: /assets/img/koopman_learning_with_episodic_memory.png
-    ---
+To this end, we are:
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+* Developing techniques for comparing non-autonomous dynamical systems and using this insight to make predictions {% cite redman2025koopman %}. We test our approaches on real-world data, including forecasting infectious diseases in the US and Canada {% cite redman2025hankel %}. 
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+*  Building recurrent neural network (RNN) models for examining predictive behavior and neural computations that emerge during continuous pursuit of a moving target. We closely collaborate with systems neuroscientists (<a href="https://alexander.psych.ucsb.edu/">Alexander Lab</a>) who experimentally probe predictions of the models. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
 {% endraw %}

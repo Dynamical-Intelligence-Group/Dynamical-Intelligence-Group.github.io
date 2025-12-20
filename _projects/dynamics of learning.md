@@ -7,70 +7,11 @@ importance: 1
 related_publications: true
 ---
 
-A defining feature of learning in artificial and biological neural networks is that it is a ***dynamic process***. However, it has historically been challenging to utilize the rich set of tools developed in dynamical systems theory to characterize learning, as the equations governing learning are complex and (in some cases) not known. A central goal of DIG's research is developing and leveraging data-driven dynamical systems theory methods to shed light on the complex emergent phenomena associated with artificial and biological learning. 
+A defining feature of learning in artificial and biological neural networks is that it is a ***dynamic process***. However, it has historically been challenging to utilize the rich set of tools developed in dynamical systems theory to characterize learning, as the equations governing learning are complex and (in some cases) not known. A central research goal of DIG is developing and leveraging data-driven dynamical systems theory methods to shed light on the complex emergent phenomena associated with artificial and biological learning. 
 
-    ---
-    layout: page
-    title: dynamics of learning
-    description: 
-    img: /assets/img/hippocampus.jpg
-    ---
+To this end, we are: 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+* Developing techniques to compare the learning dynamics associated with the training of different deep neural networks (DNNs) {% cite redman2024identifying %}. We closely collaborate with academic (UCSB, Johns Hopkins University) and industry (AIMdyn Inc.) researchers who are at the forefront of advancing Koopman operator theory. 
 
-You can also put regular text between your rows of images, even citations {% cite redman2024identifying %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
 {% endraw %}
