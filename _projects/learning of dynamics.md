@@ -15,5 +15,3 @@ To this end, we are:
 
 *  Building recurrent neural network (RNN) models for examining predictive behavior and neural computations that emerge during continuous pursuit of a moving target. We closely collaborate with systems neuroscientists (<a href="https://alexander.psych.ucsb.edu/">Alexander Lab</a>) who experimentally probe predictions of the models. 
 
-
-{% endraw %}

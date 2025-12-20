@@ -13,5 +13,3 @@ To this end, we are:
 
 * Developing techniques to compare the learning dynamics associated with the training of different deep neural networks (DNNs) {% cite redman2024identifying %}. We closely collaborate with academic (UCSB, Johns Hopkins University) and industry (AIMdyn Inc.) researchers who are at the forefront of advancing Koopman operator theory. 
 
-
-{% endraw %}
