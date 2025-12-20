@@ -4,6 +4,7 @@ title: learning of dynamics
 description: how can artificial and biological neural networks learn the dynamics of non-autonomous systems? 
 img: assets/img/koopman_learning_with_episodic_memory.png
 importance: 2
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
