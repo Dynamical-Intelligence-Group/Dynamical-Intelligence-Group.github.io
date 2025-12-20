@@ -43,9 +43,9 @@ ninja.data = [{
           description: "how does learning dynamically shape artificial and biological neural networks?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dynamics%20of%20learning.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-learning-of-dynamics",
+          title: 'learning of dynamics',
+          description: "how can artificial and biological neural networks learn the dynamics of non-autonomous systems?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/learning%20of%20dynamics.html";
             },},{
