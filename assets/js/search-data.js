@@ -38,9 +38,9 @@ ninja.data = [{
             },},{id: "news-new-preprint-out-on-grid-cell-computation-distance-by-de-correlation-computing-distance-with-heterogeneous-grid-cells-a-great-collaboration-with-priti-dasbehera-and-akshunna-s-dogra",
           title: 'New preprint out on grid cell computation: Distance by de-correlation: Computing distance with...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-dynamics-of-learning",
+          title: 'dynamics of learning',
+          description: "how does learning dynamically shape artificial and biological neural networks?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dynamics%20of%20learning.html";
             },},{id: "projects-project-2",
