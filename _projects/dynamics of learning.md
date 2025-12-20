@@ -7,11 +7,7 @@ importance: 1
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+A defining feature of learning in artificial and biological neural networks is that it is a ***dynamic process***. However, it has historically been challenging to utilize the rich set of tools developed in dynamical systems theory to characterize learning, as the equations governing learning are complex and (in some cases) not known. A central goal of DIG's research is developing and leveraging data-driven dynamical systems theory methods to shed light on the complex emergent phenomena associated with artificial and biological learning. 
 
     ---
     layout: page

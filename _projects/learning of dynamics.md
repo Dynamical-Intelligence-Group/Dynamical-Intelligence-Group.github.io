@@ -7,11 +7,7 @@ importance: 2
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Real-world, non-autonomous dynamical systems are hard to predict. This is a central challenge for artificial and biological neural networks. Despite the underlying non-autonomy, the presence of structure in latent factors can lead to the ***recurrence*** of dynamical regimes. A major goal of DIG's research is understanding how artificial and biological intelligence can learn to identify such repeated dynamics and leverage such knowledge to make better informed predictions and action plans.
 
     ---
     layout: page
