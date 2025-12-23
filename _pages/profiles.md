@@ -15,5 +15,13 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Will Redman (PI)</p>
+
+  - align: right
+    image: aarav_sinha_pic.jpg
+    content: about_aarav_sinha.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Aarav Sinha (Research Intern)</p>
+    
     
 ---
