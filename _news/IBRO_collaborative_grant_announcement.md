@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-DIG is excited to have been awarded an International Brain Research Organization (IBRO) Collaborative Research Grant funded to expand our collaboration with Prof. Roberto Bottini's group (U Trento)!
+DIG is excited to have been awarded an International Brain Research Organization (IBRO) Collaborative Research Grant funded to expand our collaboration with Prof. Roberto Bottini's group (University of Trento)! We appreciate the support.
