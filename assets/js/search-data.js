@@ -51,7 +51,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-preprint-out-on-using-koopman-operator-theory-for-characterizing-reinforcement-learning-behavior-interpreting-reinforcement-learning-model-behavior-via-koopman-with-control",
           title: 'New preprint out on using Koopman operator theory for characterizing reinforcement learning behavior:...',
           description: "",
-          section: "News",},{id: "news-dig-is-excited-to-have-been-awarded-an-international-brain-research-organization-ibro-collaborative-research-grant-funded-to-expand-our-collaboration-with-prof-roberto-bottini-s-group-u-trento",
+          section: "News",},{id: "news-dig-is-excited-to-have-been-awarded-an-international-brain-research-organization-ibro-collaborative-research-grant-funded-to-expand-our-collaboration-with-prof-roberto-bottini-s-group-university-of-trento-we-appreciate-the-support",
           title: 'DIG is excited to have been awarded an International Brain Research Organization (IBRO)...',
           description: "",
           section: "News",},{id: "projects-dynamics-of-learning",
