@@ -17,11 +17,18 @@ profiles:
       <p>Will Redman (PI)</p>
 
   - align: right
+    image: edouard_de_ponnat_pic.jpg
+    content: about_edouard_de_ponnat.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Edouard de Ponnat (Graduate student)</p>
+
+  - align: right
     image: jommy_fasehun_pic.jpg
     content: about_jommy_fasehun.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Oluwajomiloju Fasehun (Undergraduate)</p>
+      <p>Oluwajomiloju Fasehun (Undergraduate student)</p>
 
   - align: right
     image: aarav_sinha_pic.jpg
