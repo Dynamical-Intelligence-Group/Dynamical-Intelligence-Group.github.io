@@ -21,7 +21,7 @@ profiles:
     content: about_edouard_de_ponnat.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Edouard de Ponnat (Graduate student)</p>
+      <p>Edouard de Ponnat (PhD student)</p>
 
   - align: right
     image: jommy_fasehun_pic.jpg
